@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+python-multipart
+mediapipe==0.10.35
